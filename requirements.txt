@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+langchain
+openai
+faiss-cpu
+python-dotenv
+pdfplumber
+python-docx
+scikit-learn
